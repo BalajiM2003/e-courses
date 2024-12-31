@@ -1,0 +1,1907 @@
+{
+    "React - The Complete Guide 2024 (incl. Next.js, Redux)": [
+        {
+            "name": "John Doe",
+            "experience": "10+ years of experience in Web Development",
+            "courses": [
+                "React",
+                "Redux",
+                "Next.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "John has been teaching React and related technologies for over a decade. His courses are highly rated worldwide.",
+            "price": "₹4,999"
+        },
+        {
+            "name": "Jane Smith",
+            "experience": "8 years in Frontend Development",
+            "courses": [
+                "React",
+                "Hooks"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Jane specializes in modern JavaScript frameworks and libraries, focusing on performance and best practices.",
+            "price": "₹3,299"
+        },
+        {
+            "name": "Robert Wilson",
+            "experience": "5 years in Software Engineering",
+            "courses": [
+                "React",
+                "React Router"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Robert focuses on building scalable and accessible web applications using React and modern tools.",
+            "price": "₹2,499"
+        },
+        {
+            "name": "Alice Johnson",
+            "experience": "7 years in UI Development",
+            "courses": [
+                "React",
+                "CSS-in-JS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Alice is a React UI expert, teaching how to create beautiful and responsive interfaces.",
+            "price": "₹2,999"
+        },
+        {
+            "name": "Michael Brown",
+            "experience": "6 years in Fullstack Development",
+            "courses": [
+                "React",
+                "Node.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Michael combines backend and frontend expertise to teach end-to-end web development.",
+            "price": "₹4,499"
+        },
+        {
+            "name": "Emily Davis",
+            "experience": "4 years in React Development",
+            "courses": [
+                "React",
+                "Redux"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily's classes focus on simplifying React concepts for beginners.",
+            "price": "₹1,999"
+        },
+        {
+            "name": "Daniel White",
+            "experience": "9 years in Web Development",
+            "courses": [
+                "React",
+                "Hooks",
+                "Redux"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Daniel brings deep knowledge of React and ecosystem tools like Redux.",
+            "price": "₹3,799"
+        },
+        {
+            "name": "Sophia Green",
+            "experience": "6 years in Software Engineering",
+            "courses": [
+                "React",
+                "Next.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia teaches advanced React topics and server-side rendering with Next.js.",
+            "price": "₹4,299"
+        },
+        {
+            "name": "David Lee",
+            "experience": "3 years in Frontend Development",
+            "courses": [
+                "React",
+                "React Router"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "David focuses on React routing and creating dynamic SPAs.",
+            "price": "₹2,199"
+        },
+        {
+            "name": "Emma Scott",
+            "experience": "5 years in React Development",
+            "courses": [
+                "React",
+                "React Testing"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emma's expertise lies in teaching test-driven React development.",
+            "price": "₹3,199"
+        }
+    ],
+    "Python for Data Science and Machine Learning": [
+        {
+            "name": "Chris Martin",
+            "experience": "12 years in Python Development",
+            "courses": [
+                "Python",
+                "Flask"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Chris specializes in Python for web development and backend systems.",
+            "price": "₹5,499"
+        },
+        {
+            "name": "Olivia Taylor",
+            "experience": "8 years in Data Science",
+            "courses": [
+                "Python",
+                "Data Analysis"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia teaches Python programming with a focus on data analysis and visualization.",
+            "price": "₹4,799"
+        },
+        {
+            "name": "Ethan Moore",
+            "experience": "10 years in Machine Learning",
+            "courses": [
+                "Python",
+                "ML"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ethan specializes in Python-based machine learning frameworks like TensorFlow.",
+            "price": "₹6,499"
+        },
+        {
+            "name": "Ava Brown",
+            "experience": "6 years in Web Development",
+            "courses": [
+                "Python",
+                "Django"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ava is a Django expert teaching full-stack development with Python.",
+            "price": "₹4,299"
+        },
+        {
+            "name": "Lucas Wilson",
+            "experience": "5 years in AI Development",
+            "courses": [
+                "Python",
+                "AI"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Lucas integrates Python with AI tools to teach practical implementations.",
+            "price": "₹4,199"
+        },
+        {
+            "name": "Mia Miller",
+            "experience": "7 years in Software Engineering",
+            "courses": [
+                "Python",
+                "Flask"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mia's courses cover Python web frameworks and backend development.",
+            "price": "₹5,199"
+        },
+        {
+            "name": "James Anderson",
+            "experience": "9 years in Automation",
+            "courses": [
+                "Python",
+                "Scripting"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James is an expert in Python for scripting and automation.",
+            "price": "₹3,599"
+        },
+        {
+            "name": "Charlotte Martinez",
+            "experience": "4 years in Backend Development",
+            "courses": [
+                "Python",
+                "Django"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Charlotte's focus is on Python backend development and deployment.",
+            "price": "₹3,799"
+        },
+        {
+            "name": "Logan White",
+            "experience": "3 years in DevOps",
+            "courses": [
+                "Python",
+                "DevOps"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Logan applies Python to DevOps and automation workflows.",
+            "price": "₹3,299"
+        },
+        {
+            "name": "Amelia Thomas",
+            "experience": "6 years in Data Science",
+            "courses": [
+                "Python",
+                "Data Analysis"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Amelia's expertise lies in teaching Python for big data analysis.",
+            "price": "₹4,799"
+        }
+    ],
+    "The Complete Java Developer Course": [
+        {
+            "name": "Jason King",
+            "experience": "11 years in JavaScript Development",
+            "courses": [
+                "JavaScript",
+                "ES6+"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Jason is a JavaScript expert with a focus on modern ES6+ features.",
+            "price": "₹3,999"
+        },
+        {
+            "name": "Lily Watson",
+            "experience": "9 years in Frontend Development",
+            "courses": [
+                "JavaScript",
+                "React"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Lily combines JavaScript expertise with UI development.",
+            "price": "₹4,199"
+        },
+        {
+            "name": "Henry Adams",
+            "experience": "7 years in Software Development",
+            "courses": [
+                "JavaScript",
+                "Node.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Henry specializes in JavaScript for backend and server-side development.",
+            "price": "₹3,799"
+        },
+        {
+            "name": "Sophia Moore",
+            "experience": "6 years in App Development",
+            "courses": [
+                "JavaScript",
+                "React Native"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia teaches JavaScript for cross-platform mobile app development.",
+            "price": "₹4,599"
+        },
+        {
+            "name": "Matthew Wright",
+            "experience": "10 years in Web Development",
+            "courses": [
+                "JavaScript",
+                "Angular"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Matthew's courses focus on JavaScript with Angular and SPA development.",
+            "price": "₹4,299"
+        },
+        {
+            "name": "Ella Parker",
+            "experience": "5 years in UX Development",
+            "courses": [
+                "JavaScript",
+                "D3.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ella teaches JavaScript for data visualization and interactive designs.",
+            "price": "₹2,999"
+        },
+        {
+            "name": "Oliver Nelson",
+            "experience": "8 years in Fullstack Development",
+            "courses": [
+                "JavaScript",
+                "Express.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Oliver's expertise lies in JavaScript frameworks for web servers.",
+            "price": "₹3,599"
+        },
+        {
+            "name": "Isabella Hall",
+            "experience": "4 years in Software Engineering",
+            "courses": [
+                "JavaScript",
+                "Web Components"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Isabella focuses on JavaScript for creating reusable web components.",
+            "price": "₹2,799"
+        },
+        {
+            "name": "William Carter",
+            "experience": "6 years in DevOps",
+            "courses": [
+                "JavaScript",
+                "CI/CD"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "William applies JavaScript in automation and CI/CD pipelines.",
+            "price": "₹3,299"
+        },
+        {
+            "name": "Charlotte Cooper",
+            "experience": "3 years in Software Development",
+            "courses": [
+                "JavaScript",
+                "Testing"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Charlotte's courses teach test-driven development with JavaScript.",
+            "price": "₹2,499"
+        }
+    ],
+    "Mastering Python": [
+        {
+            "name": "Benjamin Martin",
+            "experience": "12 years in Python Programming",
+            "courses": [
+                "Python",
+                "Data Analysis"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Benjamin specializes in Python for data analysis and automation.",
+            "price": "₹2,500"
+        },
+        {
+            "name": "Sophia Hill",
+            "experience": "8 years in AI Development",
+            "courses": [
+                "Python",
+                "Machine Learning"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia integrates Python into AI and machine learning solutions.",
+            "price": "₹3,000"
+        },
+        {
+            "name": "Daniel Young",
+            "experience": "7 years in Data Science",
+            "courses": [
+                "Python",
+                "Pandas"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Daniel is an expert in using Python for data manipulation with Pandas.",
+            "price": "₹2,200"
+        },
+        {
+            "name": "Amelia Ward",
+            "experience": "6 years in Web Development",
+            "courses": [
+                "Python",
+                "Django"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Amelia teaches web development using Python and Django.",
+            "price": "₹2,800"
+        },
+        {
+            "name": "Elijah Carter",
+            "experience": "5 years in Scientific Computing",
+            "courses": [
+                "Python",
+                "NumPy"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Elijah specializes in Python for numerical computations.",
+            "price": "₹2,400"
+        },
+        {
+            "name": "Chloe Roberts",
+            "experience": "9 years in Fullstack Development",
+            "courses": [
+                "Python",
+                "Flask"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Chloe's courses focus on Python for lightweight web applications.",
+            "price": "₹3,200"
+        },
+        {
+            "name": "Mason Lewis",
+            "experience": "4 years in Automation",
+            "courses": [
+                "Python",
+                "Scripting"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mason uses Python for process automation and scripting.",
+            "price": "₹1,800"
+        },
+        {
+            "name": "Isabella Scott",
+            "experience": "6 years in Visualization",
+            "courses": [
+                "Python",
+                "Matplotlib"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Isabella specializes in Python for data visualization.",
+            "price": "₹2,500"
+        },
+        {
+            "name": "Logan Cooper",
+            "experience": "10 years in Backend Systems",
+            "courses": [
+                "Python",
+                "REST APIs"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Logan is an expert in building RESTful APIs with Python.",
+            "price": "₹3,100"
+        },
+        {
+            "name": "Harper Campbell",
+            "experience": "5 years in Cloud Development",
+            "courses": [
+                "Python",
+                "AWS Lambda"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Harper integrates Python into serverless cloud platforms.",
+            "price": "₹2,700"
+        }
+    ],
+    "Learn SQL - SQL for Beginners": [
+        {
+            "name": "Daniel Scott",
+            "experience": "12 years in Database Design",
+            "courses": [
+                "SQL",
+                "PostgreSQL"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Daniel is an expert in database optimization and advanced SQL queries.",
+            "price": "₹2,800"
+        },
+        {
+            "name": "Sophia Mitchell",
+            "experience": "8 years in Data Warehousing",
+            "courses": [
+                "SQL",
+                "MySQL"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia specializes in building efficient data warehouses using SQL.",
+            "price": "₹2,500"
+        },
+        {
+            "name": "Liam Harris",
+            "experience": "10 years in ETL and Data Integration",
+            "courses": [
+                "SQL",
+                "Data Integration"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Liam focuses on SQL for transforming and loading data efficiently.",
+            "price": "₹3,000"
+        },
+        {
+            "name": "Emily Walker",
+            "experience": "6 years in Database Security",
+            "courses": [
+                "SQL",
+                "Database Security"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily is an expert in securing SQL databases against vulnerabilities.",
+            "price": "₹2,200"
+        },
+        {
+            "name": "Oliver Martinez",
+            "experience": "9 years in Business Intelligence",
+            "courses": [
+                "SQL",
+                "BI Tools"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Oliver teaches SQL for business analytics and visualization tools.",
+            "price": "₹2,900"
+        },
+        {
+            "name": "Charlotte Johnson",
+            "experience": "7 years in Big Data",
+            "courses": [
+                "SQL",
+                "BigQuery"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Charlotte works on SQL queries for large-scale data processing.",
+            "price": "₹2,600"
+        },
+        {
+            "name": "James Lewis",
+            "experience": "11 years in Relational Databases",
+            "courses": [
+                "SQL",
+                "Oracle DB"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James is an expert in relational database management systems.",
+            "price": "₹3,200"
+        },
+        {
+            "name": "Isabella Moore",
+            "experience": "5 years in NoSQL to SQL Migrations",
+            "courses": [
+                "SQL",
+                "Database Migration"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Isabella focuses on migrating NoSQL data to SQL databases.",
+            "price": "₹2,000"
+        },
+        {
+            "name": "Ethan Wright",
+            "experience": "6 years in Advanced SQL Functions",
+            "courses": [
+                "SQL",
+                "Advanced Queries"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ethan teaches advanced SQL concepts, including window functions.",
+            "price": "₹2,700"
+        },
+        {
+            "name": "Mia Green",
+            "experience": "4 years in Cloud Databases",
+            "courses": [
+                "SQL",
+                "AWS RDS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mia specializes in SQL on cloud platforms like AWS and Azure.",
+            "price": "₹2,400"
+        }
+    ],
+    "SQL Mastery: Beginner to Expert": [
+        {
+            "name": "Daniel Scott",
+            "experience": "12 years in Database Design",
+            "courses": [
+                "SQL",
+                "PostgreSQL"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Daniel is an expert in database optimization and advanced SQL queries.",
+            "price": "₹2,800"
+        },
+        {
+            "name": "Sophia Mitchell",
+            "experience": "8 years in Data Warehousing",
+            "courses": [
+                "SQL",
+                "MySQL"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia specializes in building efficient data warehouses using SQL.",
+            "price": "₹2,500"
+        },
+        {
+            "name": "Liam Harris",
+            "experience": "10 years in ETL and Data Integration",
+            "courses": [
+                "SQL",
+                "Data Integration"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Liam focuses on SQL for transforming and loading data efficiently.",
+            "price": "₹3,000"
+        },
+        {
+            "name": "Emily Walker",
+            "experience": "6 years in Database Security",
+            "courses": [
+                "SQL",
+                "Database Security"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily is an expert in securing SQL databases against vulnerabilities.",
+            "price": "₹2,200"
+        },
+        {
+            "name": "Oliver Martinez",
+            "experience": "9 years in Business Intelligence",
+            "courses": [
+                "SQL",
+                "BI Tools"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Oliver teaches SQL for business analytics and visualization tools.",
+            "price": "₹2,900"
+        },
+        {
+            "name": "Charlotte Johnson",
+            "experience": "7 years in Big Data",
+            "courses": [
+                "SQL",
+                "BigQuery"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Charlotte works on SQL queries for large-scale data processing.",
+            "price": "₹2,600"
+        },
+        {
+            "name": "James Lewis",
+            "experience": "11 years in Relational Databases",
+            "courses": [
+                "SQL",
+                "Oracle DB"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James is an expert in relational database management systems.",
+            "price": "₹3,200"
+        },
+        {
+            "name": "Isabella Moore",
+            "experience": "5 years in NoSQL to SQL Migrations",
+            "courses": [
+                "SQL",
+                "Database Migration"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Isabella focuses on migrating NoSQL data to SQL databases.",
+            "price": "₹2,000"
+        },
+        {
+            "name": "Ethan Wright",
+            "experience": "6 years in Advanced SQL Functions",
+            "courses": [
+                "SQL",
+                "Advanced Queries"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ethan teaches advanced SQL concepts, including window functions.",
+            "price": "₹2,700"
+        },
+        {
+            "name": "Mia Green",
+            "experience": "4 years in Cloud Databases",
+            "courses": [
+                "SQL",
+                "AWS RDS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mia specializes in SQL on cloud platforms like AWS and Azure.",
+            "price": "₹2,400"
+        }
+    ],
+    "AWS Certified Solutions Architect - Associate 2024": [
+        {
+            "name": "Andrew Scott",
+            "experience": "12 years in Cloud Solutions",
+            "courses": [
+                "AWS",
+                "Cloud Computing",
+                "AWS Solutions Architect"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Andrew is a certified AWS Solutions Architect with extensive experience in designing and deploying scalable systems on AWS.",
+            "price": 24999
+        },
+        {
+            "name": "Bethany Mitchell",
+            "experience": "9 years in Cloud Security",
+            "courses": [
+                "AWS",
+                "Security",
+                "Cloud Infrastructure"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Bethany specializes in securing cloud applications on AWS with a strong focus on IAM, encryption, and VPC.",
+            "price": 22999
+        },
+        {
+            "name": "Chris Wilson",
+            "experience": "10 years in AWS DevOps",
+            "courses": [
+                "AWS",
+                "DevOps",
+                "CI/CD"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Chris focuses on setting up CI/CD pipelines using AWS tools like CodePipeline, CodeBuild, and CloudFormation.",
+            "price": 21999
+        },
+        {
+            "name": "Diana Thomas",
+            "experience": "8 years in Cloud Architecture",
+            "courses": [
+                "AWS",
+                "Cloud Design",
+                "Scalable Systems"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Diana specializes in creating high-availability, scalable systems on AWS for businesses of all sizes.",
+            "price": 20999
+        },
+        {
+            "name": "Ethan Davis",
+            "experience": "7 years in AWS Lambda & Serverless",
+            "courses": [
+                "AWS",
+                "Serverless",
+                "Lambda"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ethan teaches serverless architecture using AWS Lambda, focusing on cost-effective solutions and scalability.",
+            "price": 23999
+        },
+        {
+            "name": "Felicia Harris",
+            "experience": "6 years in AWS Machine Learning",
+            "courses": [
+                "AWS",
+                "Machine Learning",
+                "AI on AWS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Felicia guides students on using AWS services like SageMaker and Rekognition for building machine learning models.",
+            "price": 24999
+        },
+        {
+            "name": "George Evans",
+            "experience": "11 years in AWS Cloud Management",
+            "courses": [
+                "AWS",
+                "Cloud Management",
+                "Monitoring"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "George focuses on managing and monitoring AWS resources to ensure optimal performance and cost efficiency.",
+            "price": 25999
+        },
+        {
+            "name": "Hannah Martin",
+            "experience": "9 years in AWS Solutions Implementation",
+            "courses": [
+                "AWS",
+                "Cloud Migration",
+                "AWS Architecture"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Hannah is an expert in implementing and migrating enterprise applications to AWS.",
+            "price": 23999
+        },
+        {
+            "name": "Ian Clark",
+            "experience": "8 years in AWS Networking",
+            "courses": [
+                "AWS",
+                "VPC",
+                "Cloud Networking"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ian teaches AWS networking essentials like VPC, Direct Connect, and VPN for enterprise-level deployments.",
+            "price": 22999
+        },
+        {
+            "name": "Jackie Lewis",
+            "experience": "7 years in AWS Cost Optimization",
+            "courses": [
+                "AWS",
+                "Cost Optimization",
+                "Cloud Economics"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Jackie helps businesses optimize their AWS cloud costs through efficient architecture and usage monitoring.",
+            "price": 21999
+        }
+    ],
+    "Mastering CSS & SASS: Build Stunning Websites": [
+        {
+            "name": "Liam Green",
+            "experience": "10 years in CSS & SASS",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Responsive Design"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Liam teaches advanced CSS and SASS techniques for creating modern, responsive websites.",
+            "price": 17999
+        },
+        {
+            "name": "Maya Harris",
+            "experience": "8 years in Web Design & Frontend Development",
+            "courses": [
+                "CSS",
+                "SASS",
+                "UI Design"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Maya is an expert in UI design, specializing in the creative use of CSS and SASS for responsive web designs.",
+            "price": 18999
+        },
+        {
+            "name": "Nathan Cole",
+            "experience": "9 years in CSS Animations & Transitions",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Animations"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Nathan specializes in CSS animations, transitions, and the use of SASS for maintaining scalable stylesheets.",
+            "price": 17999
+        },
+        {
+            "name": "Olivia Brown",
+            "experience": "6 years in Web Performance",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Performance Optimization"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia teaches CSS and SASS optimization techniques to improve website performance and load times.",
+            "price": 16999
+        },
+        {
+            "name": "Paul Johnson",
+            "experience": "7 years in Advanced CSS",
+            "courses": [
+                "CSS",
+                "SASS",
+                "CSS Grid"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Paul focuses on the advanced use of CSS Grid and Flexbox, creating complex layouts with ease.",
+            "price": 17499
+        },
+        {
+            "name": "Quincy Adams",
+            "experience": "5 years in CSS Preprocessing",
+            "courses": [
+                "CSS",
+                "SASS",
+                "CSS Variables"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Quincy teaches SASS features like variables, mixins, and inheritance for more maintainable CSS.",
+            "price": 15999
+        },
+        {
+            "name": "Rachel Moore",
+            "experience": "8 years in Frontend Frameworks",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Bootstrap"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Rachel specializes in building responsive websites using CSS, SASS, and the Bootstrap framework.",
+            "price": 18499
+        },
+        {
+            "name": "Samuel Wright",
+            "experience": "9 years in Cross-Browser Compatibility",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Browser Testing"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Samuel teaches techniques for ensuring CSS and SASS work seamlessly across all browsers.",
+            "price": 19999
+        },
+        {
+            "name": "Tina Jackson",
+            "experience": "6 years in Web Accessibility",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Web Accessibility"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Tina focuses on writing accessible and semantic HTML and CSS to make websites usable for everyone.",
+            "price": 16999
+        },
+        {
+            "name": "Uma Patel",
+            "experience": "7 years in Modular CSS",
+            "courses": [
+                "CSS",
+                "SASS",
+                "Modular Architecture"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Uma teaches how to structure CSS with SASS in a modular and reusable way for scalable applications.",
+            "price": 17999
+        }
+    ],
+    "Machine Learning A-Z™: Hands-On Python & R In Data Science": [
+        {
+            "name": "David Wilson",
+            "experience": "12 years in Data Science and Machine Learning",
+            "courses": [
+                "Machine Learning",
+                "Data Science",
+                "Python",
+                "R"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "David is an expert in machine learning algorithms and has over a decade of experience teaching data science.",
+            "price": "₹7,500"
+        },
+        {
+            "name": "Emily Thompson",
+            "experience": "8 years in AI and Deep Learning",
+            "courses": [
+                "Machine Learning",
+                "AI",
+                "Neural Networks"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily specializes in building deep learning models and teaching AI using tools like TensorFlow and Keras.",
+            "price": "₹6,800"
+        },
+        {
+            "name": "Franklin Reed",
+            "experience": "10 years in Machine Learning Engineering",
+            "courses": [
+                "Machine Learning",
+                "Deep Learning",
+                "Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Franklin focuses on creating scalable machine learning models and has worked with top tech companies in the industry.",
+            "price": "₹7,200"
+        },
+        {
+            "name": "Grace Carter",
+            "experience": "9 years in Statistical Modeling",
+            "courses": [
+                "Machine Learning",
+                "Statistics",
+                "Data Analysis"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Grace has an extensive background in statistics and its application to machine learning models.",
+            "price": "₹6,500"
+        },
+        {
+            "name": "Hank Mitchell",
+            "experience": "7 years in AI Research",
+            "courses": [
+                "Machine Learning",
+                "AI Research",
+                "Natural Language Processing"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Hank is a researcher specializing in NLP, computer vision, and reinforcement learning algorithms.",
+            "price": "₹6,000"
+        },
+        {
+            "name": "Ivy Parker",
+            "experience": "6 years in Data Engineering and ML Ops",
+            "courses": [
+                "Machine Learning",
+                "ML Ops",
+                "Cloud Computing"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ivy teaches how to deploy machine learning models in production using cloud computing platforms like AWS and GCP.",
+            "price": "₹7,400"
+        },
+        {
+            "name": "Jack Sullivan",
+            "experience": "11 years in Big Data & Machine Learning",
+            "courses": [
+                "Machine Learning",
+                "Big Data",
+                "Scalable Systems"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Jack specializes in handling big data sets and applying machine learning techniques for large-scale systems.",
+            "price": "₹7,100"
+        },
+        {
+            "name": "Kara James",
+            "experience": "5 years in Reinforcement Learning",
+            "courses": [
+                "Machine Learning",
+                "Reinforcement Learning",
+                "AI"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Kara focuses on developing reinforcement learning systems and teaching practical implementations for AI.",
+            "price": "₹6,200"
+        },
+        {
+            "name": "Liam Anderson",
+            "experience": "8 years in Data Visualization and Machine Learning",
+            "courses": [
+                "Machine Learning",
+                "Data Visualization",
+                "Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Liam is known for his work in visualizing complex machine learning data and building models in Python.",
+            "price": "₹7,000"
+        },
+        {
+            "name": "Mia Williams",
+            "experience": "7 years in Computer Vision and Machine Learning",
+            "courses": [
+                "Machine Learning",
+                "Computer Vision",
+                "AI"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mia specializes in computer vision technologies and teaching how to apply ML algorithms in image recognition.",
+            "price": "₹6,700"
+        }
+    ],
+    "Complete Web Developer Bootcamp 2024": [
+        {
+            "name": "Nathaniel Green",
+            "experience": "12 years in Web Development",
+            "courses": [
+                "Web Development",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Nathaniel is an expert web developer with over 12 years of experience, teaching everything from HTML to modern frameworks.",
+            "price": "₹7,800"
+        },
+        {
+            "name": "Olivia Gray",
+            "experience": "10 years in Front-End Web Development",
+            "courses": [
+                "Web Development",
+                "JavaScript",
+                "React",
+                "CSS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia specializes in building user interfaces with JavaScript, React, and modern CSS techniques.",
+            "price": "₹6,900"
+        },
+        {
+            "name": "Peter Black",
+            "experience": "8 years in Full Stack Development",
+            "courses": [
+                "Web Development",
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Peter focuses on full-stack JavaScript development, teaching both front-end and back-end technologies.",
+            "price": "₹7,300"
+        },
+        {
+            "name": "Quincy Adams",
+            "experience": "7 years in HTML5 & CSS3",
+            "courses": [
+                "Web Development",
+                "HTML5",
+                "CSS3",
+                "Responsive Design"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Quincy is a master of HTML5 and CSS3, focusing on creating responsive, mobile-first designs.",
+            "price": "₹6,800"
+        },
+        {
+            "name": "Rachel White",
+            "experience": "6 years in JavaScript Frameworks",
+            "courses": [
+                "Web Development",
+                "React",
+                "Vue",
+                "JavaScript"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Rachel teaches advanced JavaScript frameworks like React and Vue, helping students build complex applications.",
+            "price": "₹7,000"
+        },
+        {
+            "name": "Samuel Clark",
+            "experience": "9 years in Web App Development",
+            "courses": [
+                "Web Development",
+                "Angular",
+                "TypeScript",
+                "Node.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Samuel specializes in building scalable web applications using Angular and TypeScript.",
+            "price": "₹7,500"
+        },
+        {
+            "name": "Tina Collins",
+            "experience": "8 years in UX/UI Design and Web Development",
+            "courses": [
+                "Web Development",
+                "UX/UI Design",
+                "JavaScript",
+                "CSS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Tina combines her web development and design expertise to create visually appealing and user-friendly websites.",
+            "price": "₹6,500"
+        },
+        {
+            "name": "Ursula Jackson",
+            "experience": "6 years in Back-End Development",
+            "courses": [
+                "Web Development",
+                "Node.js",
+                "Databases",
+                "APIs"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ursula focuses on back-end development with Node.js, building RESTful APIs and integrating databases.",
+            "price": "₹6,300"
+        },
+        {
+            "name": "Victor Harris",
+            "experience": "10 years in Front-End Technologies",
+            "courses": [
+                "Web Development",
+                "CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Victor is a front-end specialist, known for creating responsive, beautiful websites using CSS and JavaScript.",
+            "price": "₹7,700"
+        },
+        {
+            "name": "Wendy Robinson",
+            "experience": "7 years in Web Development and SEO",
+            "courses": [
+                "Web Development",
+                "SEO",
+                "HTML",
+                "JavaScript"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Wendy teaches web development with a focus on SEO optimization to ensure websites rank high on search engines.",
+            "price": "₹6,600"
+        }
+    ],
+    "The Complete Digital Marketing Course": [
+        {
+            "name": "John Smith",
+            "experience": "10 years in SEO and SEM",
+            "courses": [
+                "SEO",
+                "SEM",
+                "Google Ads"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "John helps businesses dominate search rankings with advanced SEO and SEM strategies.",
+            "price": "₹7,500"
+        },
+        {
+            "name": "Emily Brown",
+            "experience": "8 years in Social Media Marketing",
+            "courses": [
+                "Social Media Marketing",
+                "Instagram Ads",
+                "Facebook Campaigns"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily specializes in creating engaging social media campaigns for global audiences.",
+            "price": "₹6,800"
+        },
+        {
+            "name": "Sophia Wilson",
+            "experience": "7 years in Content Marketing",
+            "courses": [
+                "Content Creation",
+                "Blog Optimization",
+                "Copywriting"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia is a content expert who transforms blogs and articles into powerful marketing tools.",
+            "price": "₹6,400"
+        },
+        {
+            "name": "Michael Green",
+            "experience": "12 years in Analytics and Email Campaigns",
+            "courses": [
+                "Email Marketing",
+                "Google Analytics",
+                "Performance Tracking"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Michael uses data insights to design impactful email campaigns and optimize performance.",
+            "price": "₹7,200"
+        },
+        {
+            "name": "Alice Parker",
+            "experience": "6 years in Influencer Marketing",
+            "courses": [
+                "Influencer Marketing",
+                "Social Media Strategy",
+                "Brand Partnerships"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Alice collaborates with top influencers to amplify brand presence on social platforms.",
+            "price": "₹6,500"
+        },
+        {
+            "name": "Ryan Lewis",
+            "experience": "10 years in Digital Campaign Management",
+            "courses": [
+                "Campaign Strategy",
+                "Conversion Optimization",
+                "Ad Budgeting"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ryan ensures maximum ROI with optimized digital campaign strategies.",
+            "price": "₹7,000"
+        },
+        {
+            "name": "Sophia Carter",
+            "experience": "9 years in Video Marketing",
+            "courses": [
+                "Video Content Creation",
+                "YouTube Strategy",
+                "Storytelling for Brands"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia leverages video storytelling to drive engagement and audience growth.",
+            "price": "₹6,600"
+        },
+        {
+            "name": "Chris Walker",
+            "experience": "8 years in PPC and Retargeting",
+            "courses": [
+                "PPC Campaigns",
+                "Google Display Ads",
+                "Retargeting Techniques"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Chris helps businesses achieve success with high-performing PPC and retargeting ads.",
+            "price": "₹6,200"
+        },
+        {
+            "name": "Emma Johnson",
+            "experience": "6 years in E-commerce Marketing",
+            "courses": [
+                "E-commerce Marketing",
+                "Shopify Ads",
+                "Sales Funnels"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emma is an expert in driving traffic and sales for e-commerce businesses.",
+            "price": "₹6,700"
+        },
+        {
+            "name": "James Lee",
+            "experience": "9 years in Growth Hacking",
+            "courses": [
+                "Growth Hacking",
+                "SEO",
+                "Customer Acquisition"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James uses innovative tactics to rapidly grow startups and improve customer acquisition.",
+            "price": "₹7,100"
+        }
+    ],
+    "Data Science and Machine Learning Bootcamp with R": [
+        {
+            "name": "Dr. Rachel Green",
+            "experience": "12 years in Data Science",
+            "courses": [
+                "Data Science with R",
+                "Statistics for Machine Learning",
+                "Data Visualization"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Dr. Rachel specializes in advanced statistical methods and data visualization using R.",
+            "price": "₹6,200"
+        },
+        {
+            "name": "Andrew Scott",
+            "experience": "9 years in Machine Learning Engineering",
+            "courses": [
+                "Machine Learning with R",
+                "Supervised Learning",
+                "Predictive Analytics"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Andrew has hands-on experience in implementing scalable machine learning models in R.",
+            "price": "₹7,400"
+        },
+        {
+            "name": "Sophia Williams",
+            "experience": "8 years in Data Analytics",
+            "courses": [
+                "Data Cleaning with R",
+                "EDA in R",
+                "Time Series Analysis"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia empowers learners to uncover insights from complex datasets using R programming.",
+            "price": "₹5,800"
+        },
+        {
+            "name": "Dr. Kevin Brown",
+            "experience": "15 years in Artificial Intelligence",
+            "courses": [
+                "AI with R",
+                "Deep Learning Foundations",
+                "Neural Networks in R"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Dr. Kevin bridges the gap between AI theory and practical applications with R.",
+            "price": "₹6,500"
+        },
+        {
+            "name": "Emily Davis",
+            "experience": "7 years in Statistical Computing",
+            "courses": [
+                "Descriptive Statistics with R",
+                "Hypothesis Testing",
+                "R Programming Basics"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily focuses on making statistical concepts intuitive and easy to implement in R.",
+            "price": "₹6,000"
+        },
+        {
+            "name": "James Lee",
+            "experience": "10 years in Big Data Analytics",
+            "courses": [
+                "Big Data in R",
+                "Data Wrangling",
+                "Cluster Analysis"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James teaches efficient data wrangling techniques and clustering algorithms in R.",
+            "price": "₹7,200"
+        },
+        {
+            "name": "Olivia Martinez",
+            "experience": "6 years in Data Mining",
+            "courses": [
+                "Data Mining with R",
+                "Feature Engineering",
+                "Dimensionality Reduction"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia specializes in mining meaningful patterns and building feature-rich models in R.",
+            "price": "₹6,800"
+        },
+        {
+            "name": "Dr. Ethan Harris",
+            "experience": "13 years in Bayesian Analysis",
+            "courses": [
+                "Bayesian Models in R",
+                "Probability and Statistics",
+                "Monte Carlo Simulations"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Dr. Ethan is an expert in probabilistic modeling and Monte Carlo simulations using R.",
+            "price": "₹7,000"
+        },
+        {
+            "name": "Mia Taylor",
+            "experience": "5 years in Natural Language Processing",
+            "courses": [
+                "Text Mining with R",
+                "Sentiment Analysis",
+                "NLP Basics"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mia focuses on text data analysis and building sentiment models using R.",
+            "price": "₹5,900"
+        },
+        {
+            "name": "Daniel Carter",
+            "experience": "11 years in Predictive Modeling",
+            "courses": [
+                "Predictive Models in R",
+                "Regression Techniques",
+                "Cross-Validation"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Daniel uses R to create accurate predictive models and validate their performance.",
+            "price": "₹6,300"
+        }
+    ],
+    "The Ultimate Guide to Bootstrap 5": [
+        {
+            "name": "John Maxwell",
+            "experience": "9 years in Responsive Design",
+            "courses": [
+                "Bootstrap Basics",
+                "Responsive Web Design",
+                "CSS Frameworks"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "John specializes in creating responsive and modern web layouts with Bootstrap.",
+            "price": "₹7,100"
+        },
+        {
+            "name": "Lisa Nguyen",
+            "experience": "8 years in Frontend Development",
+            "courses": [
+                "Bootstrap Components",
+                "Customizing Bootstrap",
+                "Web Design Essentials"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Lisa is an expert in using Bootstrap for sleek, user-friendly web interfaces.",
+            "price": "₹6,900"
+        },
+        {
+            "name": "Daniel Parker",
+            "experience": "7 years in UI/UX Design",
+            "courses": [
+                "Bootstrap Grid System",
+                "User Interface Design",
+                "Prototyping with Bootstrap"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Daniel combines Bootstrap and UX principles to create intuitive designs.",
+            "price": "₹6,700"
+        },
+        {
+            "name": "Sophia Carter",
+            "experience": "10 years in Web Development",
+            "courses": [
+                "Bootstrap 5 Features",
+                "Mobile-First Design",
+                "Advanced Styling"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia is passionate about leveraging Bootstrap for dynamic and responsive websites.",
+            "price": "₹7,300"
+        },
+        {
+            "name": "Ethan Clark",
+            "experience": "6 years in CSS Frameworks",
+            "courses": [
+                "Bootstrap Utilities",
+                "Theming with Bootstrap",
+                "HTML/CSS Integration"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ethan excels in building fast and visually appealing sites using Bootstrap.",
+            "price": "₹6,400"
+        },
+        {
+            "name": "Emily Davis",
+            "experience": "8 years in Web Development Training",
+            "courses": [
+                "Bootstrap for Beginners",
+                "Building Layouts with Bootstrap",
+                "Bootstrap for Professionals"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily has trained thousands of students in mastering Bootstrap for web projects.",
+            "price": "₹6,500"
+        },
+        {
+            "name": "Michael Harris",
+            "experience": "11 years in Full-Stack Development",
+            "courses": [
+                "Integrating Bootstrap with JavaScript",
+                "Responsive Layouts",
+                "Cross-Browser Compatibility"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Michael ensures cross-browser compatibility with Bootstrap and advanced web techniques.",
+            "price": "₹7,200"
+        },
+        {
+            "name": "Olivia Taylor",
+            "experience": "9 years in Modern Web Design",
+            "courses": [
+                "Creating Themes with Bootstrap",
+                "Customizing CSS",
+                "Interactive Elements"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia focuses on building interactive and aesthetically pleasing designs using Bootstrap.",
+            "price": "₹6,800"
+        },
+        {
+            "name": "Liam Thompson",
+            "experience": "10 years in Frontend Frameworks",
+            "courses": [
+                "Bootstrap Templates",
+                "Grid Systems",
+                "Web Accessibility"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Liam is a pro in creating accessible web pages using Bootstrap’s robust features.",
+            "price": "₹7,400"
+        },
+        {
+            "name": "Chloe Anderson",
+            "experience": "12 years in Professional Web Design",
+            "courses": [
+                "Bootstrap for E-commerce",
+                "Responsive Typography",
+                "Customizing Components"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Chloe brings her expertise in Bootstrap to help build scalable e-commerce websites.",
+            "price": "₹7,000"
+        }
+    ],
+    "iOS 16 Development for Beginner": [
+        {
+            "name": "Alice Johnson",
+            "experience": "8 years in iOS Development",
+            "courses": [
+                "Swift Basics",
+                "Building iOS Apps",
+                "UI Design for iOS"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Alice is an experienced iOS developer focused on teaching Swift and app design fundamentals.",
+            "price": "₹6,300"
+        },
+        {
+            "name": "Brian Lee",
+            "experience": "6 years in Mobile App Development",
+            "courses": [
+                "iOS 16 New Features",
+                "SwiftUI Essentials",
+                "App Store Deployment"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Brian specializes in helping beginners master the latest iOS 16 features and SwiftUI.",
+            "price": "₹6,600"
+        },
+        {
+            "name": "Catherine Brown",
+            "experience": "9 years in Swift Programming",
+            "courses": [
+                "Swift for Beginners",
+                "Core Data Basics",
+                "iOS Development Tools"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Catherine is passionate about simplifying iOS development concepts for new learners.",
+            "price": "₹7,000"
+        },
+        {
+            "name": "David Martinez",
+            "experience": "7 years in Mobile UI/UX",
+            "courses": [
+                "Designing for iOS",
+                "Interactive Prototyping",
+                "Swift Playgrounds"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "David focuses on creating user-friendly interfaces and engaging app designs for iOS.",
+            "price": "₹6,400"
+        },
+        {
+            "name": "Elena Davis",
+            "experience": "10 years in Objective-C and Swift",
+            "courses": [
+                "Swift and Objective-C Basics",
+                "Foundation Framework",
+                "Testing iOS Apps"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Elena is an experienced tutor in iOS programming, bridging both Objective-C and Swift.",
+            "price": "₹6,700"
+        },
+        {
+            "name": "Franklin Thomas",
+            "experience": "5 years in SwiftUI Development",
+            "courses": [
+                "SwiftUI Animations",
+                "State Management",
+                "Integrating APIs"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Franklin teaches how to create modern and dynamic iOS apps using SwiftUI.",
+            "price": "₹6,200"
+        },
+        {
+            "name": "Grace Walker",
+            "experience": "11 years in App Development",
+            "courses": [
+                "Debugging iOS Apps",
+                "Xcode Mastery",
+                "Publishing to the App Store"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Grace guides students through the entire app lifecycle, from coding to publishing.",
+            "price": "₹7,100"
+        },
+        {
+            "name": "Henry Evans",
+            "experience": "7 years in Software Development",
+            "courses": [
+                "Networking in iOS",
+                "Building RESTful Apps",
+                "SwiftUI for Beginners"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Henry specializes in integrating APIs and backend services with iOS apps.",
+            "price": "₹6,500"
+        },
+        {
+            "name": "Isabella Carter",
+            "experience": "9 years in App Store Optimization",
+            "courses": [
+                "iOS App Marketing",
+                "Building Successful Apps",
+                "Monetization Strategies"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Isabella teaches not only development but also strategies for successful app marketing.",
+            "price": "₹6,800"
+        },
+        {
+            "name": "James Robinson",
+            "experience": "12 years in Mobile Architecture",
+            "courses": [
+                "Architecting iOS Apps",
+                "Advanced Swift",
+                "Performance Optimization"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James offers deep insights into creating robust and efficient iOS applications.",
+            "price": "₹7,300"
+        }
+    ],
+    "Vue.js 3 - The Complete Guide": [
+        {
+            "name": "John Smith",
+            "experience": "6 years in JavaScript and Vue.js",
+            "courses": [
+                "Vue.js Fundamentals",
+                "Vue 3 Composition API",
+                "Building Real-World Apps with Vue.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "John is passionate about teaching Vue.js and JavaScript, focusing on Vue 3's Composition API and modern app development.",
+            "price": 5500
+        },
+        {
+            "name": "Sarah Lee",
+            "experience": "8 years in Front-End Development",
+            "courses": [
+                "Vue.js 3 for Beginners",
+                "Vuex and State Management",
+                "Building Scalable Vue.js Apps"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sarah specializes in Vue.js 3 and modern JavaScript techniques, helping developers build maintainable and scalable apps.",
+            "price": 7200
+        },
+        {
+            "name": "Michael Turner",
+            "experience": "5 years in Full Stack Development",
+            "courses": [
+                "Vue.js with Node.js",
+                "Vue Router Essentials",
+                "Integrating APIs with Vue.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Michael teaches how to use Vue.js with back-end technologies and API integrations for full-stack development.",
+            "price": 6000
+        },
+        {
+            "name": "Emily Brown",
+            "experience": "7 years in Web Development",
+            "courses": [
+                "Vue.js 3 Composition API",
+                "Vue.js Best Practices",
+                "Building SPAs with Vue.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Emily helps developers master Vue.js 3 through practical, hands-on examples and real-world best practices.",
+            "price": 4500
+        },
+        {
+            "name": "David Wilson",
+            "experience": "10 years in JavaScript Development",
+            "courses": [
+                "Advanced Vue.js",
+                "Vuex and State Management in Depth",
+                "Testing Vue.js Apps"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "David is an expert in advanced Vue.js concepts, including state management with Vuex and testing Vue applications.",
+            "price": 7300
+        },
+        {
+            "name": "Jessica Taylor",
+            "experience": "6 years in Front-End Development",
+            "courses": [
+                "Mastering Vue.js 3",
+                "Vue.js Animations",
+                "Creating Reusable Components"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Jessica is a front-end specialist who helps developers create dynamic and reusable components using Vue.js 3.",
+            "price": 4900
+        },
+        {
+            "name": "Christopher Green",
+            "experience": "9 years in Web Development",
+            "courses": [
+                "Vue.js 3 Essentials",
+                "Vue.js with Firebase",
+                "Building Real-Time Applications with Vue.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Christopher teaches developers how to build real-time, data-driven applications using Vue.js and Firebase.",
+            "price": 6900
+        },
+        {
+            "name": "Olivia Adams",
+            "experience": "5 years in JavaScript and UI Development",
+            "courses": [
+                "Vue.js and TypeScript",
+                "Vue 3 and CSS Frameworks",
+                "Responsive Vue.js Applications"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia focuses on combining Vue.js with TypeScript and CSS frameworks to create beautiful and responsive applications.",
+            "price": 4300
+        },
+        {
+            "name": "James Moore",
+            "experience": "8 years in Front-End Frameworks",
+            "courses": [
+                "Vue.js 3 Project-Based Course",
+                "Vue.js Router and Vuex",
+                "Building Progressive Web Apps with Vue.js"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "James takes a project-based approach to teaching Vue.js 3, focusing on building real-world progressive web apps.",
+            "price": 6800
+        },
+        {
+            "name": "Sophia Harris",
+            "experience": "7 years in Full Stack Development",
+            "courses": [
+                "Integrating Vue.js with APIs",
+                "Vue.js 3 for Production",
+                "Vue 3 Performance Optimization"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia focuses on optimizing Vue.js 3 applications for production, ensuring fast, responsive, and efficient web apps.",
+            "price": 5000
+        }
+    ],
+    "The Complete Python Bootcamp": [
+        {
+            "name": "Alice Johnson",
+            "experience": "8 years in Python and Data Science",
+            "courses": [
+                "Complete Python Bootcamp",
+                "Data Analysis with Python",
+                "Machine Learning with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Alice has extensive experience in Python programming, specializing in data science and machine learning applications.",
+            "price": 7200
+        },
+        {
+            "name": "David Clark",
+            "experience": "10 years in Python Web Development",
+            "courses": [
+                "Advanced Python Programming",
+                "Building Web Applications with Python",
+                "Python for Backend Development"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "David teaches Python programming with a focus on backend web development, using frameworks like Django and Flask.",
+            "price": 7500
+        },
+        {
+            "name": "Rachel Moore",
+            "experience": "6 years in Software Engineering",
+            "courses": [
+                "Python for Beginners",
+                "Automation with Python",
+                "Python for Data Structures and Algorithms"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Rachel’s teaching approach revolves around making Python programming accessible to beginners and teaching software engineering best practices.",
+            "price": 4800
+        },
+        {
+            "name": "John Doe",
+            "experience": "7 years in Python and AI",
+            "courses": [
+                "Python for Artificial Intelligence",
+                "Deep Learning with Python",
+                "Building AI Applications with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "John specializes in Python for AI and machine learning, helping students build intelligent systems and models using Python.",
+            "price": 6500
+        },
+        {
+            "name": "Sophia Williams",
+            "experience": "9 years in Python and Web Scraping",
+            "courses": [
+                "Web Scraping with Python",
+                "Python for Data Mining",
+                "Automating Tasks with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Sophia is an expert in web scraping and automation, using Python to extract data from websites and automate processes.",
+            "price": 6200
+        },
+        {
+            "name": "Mark Anderson",
+            "experience": "5 years in Python and Cloud Computing",
+            "courses": [
+                "Python for Cloud Applications",
+                "Building Scalable Systems with Python",
+                "AWS with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Mark teaches how to leverage Python in cloud computing environments, focusing on AWS integration and building scalable systems.",
+            "price": 5500
+        },
+        {
+            "name": "Olivia Brown",
+            "experience": "6 years in Python and Game Development",
+            "courses": [
+                "Python Game Development",
+                "Building Games with Pygame",
+                "Advanced Python Game Programming"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Olivia helps students learn Python by building games, from beginner-level projects to more complex game programming using Pygame.",
+            "price": 5000
+        },
+        {
+            "name": "Ethan White",
+            "experience": "8 years in Data Science and Python",
+            "courses": [
+                "Python for Data Science",
+                "Python for Data Visualization",
+                "Building Data Science Projects with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Ethan is a data science expert who teaches how to use Python for data analysis, visualization, and building data-driven projects.",
+            "price": 6900
+        },
+        {
+            "name": "Charlotte Green",
+            "experience": "7 years in Python and Cybersecurity",
+            "courses": [
+                "Python for Cybersecurity",
+                "Network Security with Python",
+                "Building Security Tools with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Charlotte combines Python programming with cybersecurity knowledge, teaching students how to build security tools and perform ethical hacking.",
+            "price": 6700
+        },
+        {
+            "name": "Lucas Harris",
+            "experience": "10 years in Python and DevOps",
+            "courses": [
+                "Python for DevOps",
+                "Automating DevOps with Python",
+                "Building Continuous Integration Systems with Python"
+            ],
+            "image": "https://via.placeholder.com/150",
+            "bio": "Lucas focuses on using Python for DevOps, automating tasks and building continuous integration systems for streamlined development workflows.",
+            "price": 7300
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+[
+    {
+        "courseTitle": "React - The Complete Guide 2024 (incl. Next.js, Redux)",
+        "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!",
+        "category": "Web Development",
+        "isBestseller": false,
+        "studentsEnrolled": 923449,
+        "lastUpdated": "2024-12",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Arabic [Auto]"
+        ],
+        "image": "./src/assets/react.png"
+    },
+    {
+        "courseTitle": "JavaScript - The Modern Guide",
+        "description": "Master JavaScript with hands-on projects and build your skills.",
+        "category": "Web Development",
+        "isBestseller": true,
+        "studentsEnrolled": 600000,
+        "lastUpdated": "2024-11",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Spanish [Auto]"
+        ],
+        "image": "./src/assets/js.png"
+    },
+    {
+        "courseTitle": "HTML & CSS - Complete Guide",
+        "description": "Learn how to build beautiful, responsive websites with HTML and CSS.",
+        "category": "Web Development",
+        "isBestseller": false,
+        "studentsEnrolled": 500000,
+        "lastUpdated": "2024-10",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "French [Auto]"
+        ],
+        "image": "./src/assets/html css.jpeg"
+    },
+    {
+        "courseTitle": "The Complete Node.js Developer Course",
+        "description": "Master Node.js, build APIs, and backend apps with Express.js, MongoDB, and more.",
+        "category": "Backend Development",
+        "isBestseller": true,
+        "studentsEnrolled": 450000,
+        "lastUpdated": "2024-08",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "German [Auto]"
+        ],
+        "image": "./src/assets/node.png"
+    },
+    {
+        "courseTitle": "Angular - Master the Basics",
+        "description": "Learn Angular from scratch and build amazing single-page applications.",
+        "category": "Web Development",
+        "isBestseller": false,
+        "studentsEnrolled": 300000,
+        "lastUpdated": "2024-07",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Portuguese [Auto]"
+        ],
+        "image": "./src/assets/angular.png"
+    },
+    {
+        "courseTitle": "Python for Data Science and Machine Learning",
+        "description": "Learn Python programming and apply it to Data Science, Machine Learning, and AI.",
+        "category": "Data Science",
+        "isBestseller": true,
+        "studentsEnrolled": 700000,
+        "lastUpdated": "2024-09",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Chinese [Auto]"
+        ],
+        "image": "./src/assets/python.jpeg"
+    },
+    {
+        "courseTitle": "The Complete Java Developer Course",
+        "description": "Master Java programming and build a range of real-world projects.",
+        "category": "Software Development",
+        "isBestseller": true,
+        "studentsEnrolled": 800000,
+        "lastUpdated": "2024-11",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Japanese [Auto]"
+        ],
+        "image": "./src/assets/java.jpeg"
+    },
+    {
+        "courseTitle": "Learn SQL - SQL for Beginners",
+        "description": "Master SQL queries and relational databases with this beginner-friendly course.",
+        "category": "Database Management",
+        "isBestseller": false,
+        "studentsEnrolled": 200000,
+        "lastUpdated": "2024-06",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Russian [Auto]"
+        ],
+        "image": "./src/assets/sql.png"
+    },
+    {
+        "courseTitle": "Advanced CSS & Sass: Flexbox, Grid, Animations",
+        "description": "Take your CSS skills to the next level with Flexbox, Grid, and animations.",
+        "category": "Web Development",
+        "isBestseller": true,
+        "studentsEnrolled": 400000,
+        "lastUpdated": "2024-12",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Italian [Auto]"
+        ],
+        "image": "./src/assets/css sass.jpeg"
+    },
+    {
+        "courseTitle": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "description": "Master machine learning and build real-world projects in Python and R.",
+        "category": "Data Science",
+        "isBestseller": true,
+        "studentsEnrolled": 600000,
+        "lastUpdated": "2024-10",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Spanish [Auto]"
+        ],
+        "image": "./src/assets/ml.jpeg"
+    },
+    {
+        "courseTitle": "Complete Web Developer Bootcamp 2024",
+        "description": "Become a full-stack web developer with this comprehensive course.",
+        "category": "Web Development",
+        "isBestseller": true,
+        "studentsEnrolled": 1000000,
+        "lastUpdated": "2024-12",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Arabic [Auto ]"
+        ],
+        "image": "./src/assets/web development.jpeg"
+    },
+    {
+        "courseTitle": "The Complete Digital Marketing Course",
+        "description": "Learn digital marketing skills to boost your business online with this course.",
+        "category": "Marketing",
+        "isBestseller": true,
+        "studentsEnrolled": 900000,
+        "lastUpdated": "2024-05",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Hindi [Auto]"
+        ],
+        "image": "./src/assets/digital marketing.png"
+    },
+    {
+        "courseTitle": "Data Science and Machine Learning Bootcamp with R",
+        "description": "Master data science and machine learning using R programming language.",
+        "category": "Data Science",
+        "isBestseller": false,
+        "studentsEnrolled": 250000,
+        "lastUpdated": "2024-04",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Turkish [Auto]"
+        ],
+        "image": "./src/assets/ml ds.png"
+    },
+    {
+        "courseTitle": "The Ultimate Guide to Bootstrap 5",
+        "description": "Learn how to use the latest version of Bootstrap to build responsive websites.",
+        "category": "Web Development",
+        "isBestseller": false,
+        "studentsEnrolled": 350000,
+        "lastUpdated": "2024-03",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "French [Auto]"
+        ],
+        "image": "./src/assets/bootstrap 5.jpeg"
+    },
+    {
+        "courseTitle": "iOS 16 Development for Beginners",
+        "description": "Learn iOS 16 development from scratch using Swift and Xcode.",
+        "category": "Mobile Development",
+        "isBestseller": true,
+        "studentsEnrolled": 400000,
+        "lastUpdated": "2024-02",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Chinese [Auto]"
+        ],
+        "image": "./src/assets/ios16.jpeg"
+    },
+    {
+        "courseTitle": "The Complete Machine Learning and Data Science Course",
+        "description": "Become a data scientist by mastering machine learning algorithms and techniques.",
+        "category": "Data Science",
+        "isBestseller": true,
+        "studentsEnrolled": 550000,
+        "lastUpdated": "2024-01",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Spanish [Auto]"
+        ],
+        "image": "./src/assets/ml ds.png"
+    },
+    {
+        "courseTitle": "Vue.js 3 - The Complete Guide",
+        "description": "Learn Vue.js 3, one of the most popular front-end frameworks for modern web apps.",
+        "category": "Web Development",
+        "isBestseller": true,
+        "studentsEnrolled": 450000,
+        "lastUpdated": "2024-12",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Italian [Auto]"
+        ],
+        "image": "./src/assets/vuejs3.png"
+    },
+    {
+        "courseTitle": "The Complete Python Bootcamp",
+        "description": "Master Python and start building real-world projects, including web apps and data science.",
+        "category": "Software Development",
+        "isBestseller": true,
+        "studentsEnrolled": 950000,
+        "lastUpdated": "2024-12",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "German [Auto]"
+        ],
+        "image": "./src/assets/python bootcamp.jpeg"
+    },
+    {
+        "courseTitle": "AWS Certified Solutions Architect - Associate 2024",
+        "description": "Prepare for the AWS Solutions Architect certification exam with hands-on labs and mock exams.",
+        "category": "Cloud Computing",
+        "isBestseller": false,
+        "studentsEnrolled": 350000,
+        "lastUpdated": "2024-12",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "French [Auto]"
+        ],
+        "image": "./src/assets/aws.jpeg"
+    },
+    {
+        "courseTitle": "The Complete SwiftUI Course",
+        "description": "Learn how to build iOS applications with SwiftUI and Xcode.",
+        "category": "Mobile Development",
+        "isBestseller": true,
+        "studentsEnrolled": 600000,
+        "lastUpdated": "2024-09",
+        "language": "English",
+        "subtitles": [
+            "English [CC]",
+            "Arabic [Auto]"
+        ],
+        "image": "./src/assets/swiftui.jpeg"
+    }
+]

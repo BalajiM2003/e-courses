@@ -1,0 +1,102 @@
+[
+    {
+        "studentName": "Alice Johnson",
+        "completedCourses": [
+            "Computer Science",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "selectedCompany": "Google",
+        "currentCTC": "18,00,000"
+    },
+    {
+        "studentName": "Bob Smith",
+        "completedCourses": [
+            "Software Engineering",
+            "Database Systems",
+            "Operating Systems"
+        ],
+        "selectedCompany": "Microsoft",
+        "currentCTC": "22,50,000"
+    },
+    {
+        "studentName": "Charlie Brown",
+        "completedCourses": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Cloud Computing"
+        ],
+        "selectedCompany": "Amazon",
+        "currentCTC": "20,00,000"
+    },
+    {
+        "studentName": "David Williams",
+        "completedCourses": [
+            "Web Development",
+            "React.js",
+            "Node.js"
+        ],
+        "selectedCompany": "Facebook",
+        "currentCTC": "19,00,000"
+    },
+    {
+        "studentName": "Eva Davis",
+        "completedCourses": [
+            "Computer Networks",
+            "Information Security",
+            "Cryptography"
+        ],
+        "selectedCompany": "IBM",
+        "currentCTC": "21,00,000"
+    },
+    {
+        "studentName": "Frank Harris",
+        "completedCourses": [
+            "Digital Marketing",
+            "SEO",
+            "Content Strategy"
+        ],
+        "selectedCompany": "Adobe",
+        "currentCTC": "15,00,000"
+    },
+    {
+        "studentName": "Grace Lee",
+        "completedCourses": [
+            "Mobile App Development",
+            "Flutter",
+            "Swift"
+        ],
+        "selectedCompany": "Apple",
+        "currentCTC": "25,00,000"
+    },
+    {
+        "studentName": "Henry Clark",
+        "completedCourses": [
+            "Cloud Architecture",
+            "DevOps",
+            "Kubernetes"
+        ],
+        "selectedCompany": "Oracle",
+        "currentCTC": "24,00,000"
+    },
+    {
+        "studentName": "Isla Martinez",
+        "completedCourses": [
+            "UI/UX Design",
+            "Figma",
+            "Adobe XD"
+        ],
+        "selectedCompany": "Spotify",
+        "currentCTC": "17,00,000"
+    },
+    {
+        "studentName": "James Wilson",
+        "completedCourses": [
+            "Blockchain Technology",
+            "Smart Contracts",
+            "Cryptocurrency"
+        ],
+        "selectedCompany": "Coinbase",
+        "currentCTC": "23,00,000"
+    }
+]
