@@ -19,19 +19,19 @@ export const Routers = () => {
 
         <Routes>
 
-            <Route path='/login' element={<Login />} />
-            <Route path='/signup' element={<SignUp />} />
+            <Route path='login' element={<Login />} />
+            <Route path='signup' element={<SignUp />} />
             <Route path='/' element={<Home />} />
-            <Route path='/about' element={<About />} />
-            <Route path='/event' element={<Event />} />
-            <Route path='/contact' element={<Contact />} />
+            <Route path='about' element={<About />} />
+            <Route path='event' element={<Event />} />
+            <Route path='contact' element={<Contact />} />
             <Route path='tutor/:name' element={<CompleteDetails />} />
-            <Route path="/course/:courseTitle" element={<TutorDetails />} />
-            <Route path='/search-results' element={<SearchResults />} />
-            <Route path='/profile' element={<Profile />} />
-            <Route path='/products' element={<Details />} />
-            <Route path='/cart' element={<Cart />} />
-            <Route path='/payment' element={<PaymentPage />} />
+            <Route path="course/:courseTitle" element={<TutorDetails />} />
+            <Route path='search-results' element={<SearchResults />} />
+            <Route path='profile' element={<Profile />} />
+            <Route path='products' element={<Details />} />
+            <Route path='cart' element={<Cart />} />
+            <Route path='payment' element={<PaymentPage />} />
         </Routes>
 
     );

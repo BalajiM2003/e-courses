@@ -5,5 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
 
   plugins: [react()],
-  base: "/",
+  base: "/e-courses/",
+  build: {
+    outDir: 'build', // Output directory for GitHub Pages
+  },
 })
