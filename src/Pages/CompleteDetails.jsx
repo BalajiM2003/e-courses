@@ -34,11 +34,11 @@ export const CompleteDetails = () => {
     };
     const handleBuy = () => {
         if (isLoggedIn) {
-            navigate('/payment');
+            navigate('/e-courses/payment');
         } else {
             const confirm = window.confirm("Login to Get the Course");
             if (confirm) {
-                navigate('/login');
+                navigate('/e-courses/login');
             }
         }
     }

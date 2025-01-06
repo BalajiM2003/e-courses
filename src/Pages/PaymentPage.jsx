@@ -22,7 +22,7 @@ const PaymentPage = () => {
         e.preventDefault();
         const alert = window.confirm("Payment successful");
         if (alert) {
-            navigate("/")
+            navigate("/e-courses/")
         }
     };
 

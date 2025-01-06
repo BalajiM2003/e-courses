@@ -7,12 +7,7 @@ import { FaShoppingCart } from "react-icons/fa";
 import { IoSearchSharp } from "react-icons/io5";
 import courses from '../Json/Courses.json';
 
-const navigation = [
-    { name: 'Home', href: '/' },
-    { name: 'About', href: '/about' },
-    { name: 'Contact', href: '/contact' },
-    { name: 'Event', href: '/event' },
-];
+
 
 function classNames(...classes) {
     return classes.filter(Boolean).join(' ');
@@ -44,18 +39,18 @@ export function Header() {
                 course.description.toLowerCase().includes(searchQuery.toLowerCase()) ||
                 course.category.toLowerCase().includes(searchQuery.toLowerCase())
             );
-            navigate('/search-results', { state: { query: searchQuery, results } });
+            navigate('/e-courses/search-results', { state: { query: searchQuery, results } });
         }
     };
 
     const handleLogout = () => {
         setIsLoggedIn(false); // Update context state
         localStorage.removeItem("isLoggedIn"); // Remove login state from localStorage
-        navigate('/login');
+        navigate('/e-courses/login');
     };
 
-    const isLoginPage = location.pathname === "/login";
-    const isSignUpPage = location.pathname === "/signup";
+    const isLoginPage = location.pathname === "/e-courses/login";
+    const isSignUpPage = location.pathname === "/e-courses/signup";
 
     return (
         <div className="relative">
@@ -77,15 +72,27 @@ export function Header() {
 
                                 <div className="hidden  md:block">
                                     <div className="flex space-x-4 mt-16 pt-2  lg:space-x-4 md:space-x-2 sm:space-x-1">
-                                        {navigation.map((item) => (
-                                            <a
-                                                key={item.name}
-                                                href={item.href}
-                                                className={`text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium ${location.pathname === item.href ? "bg-sky-800 text-white" : "hover:bg-sky-700 ml-8"}`}
-                                            >
-                                                {item.name}
-                                            </a>
-                                        ))}
+
+                                        <button onClick={() => navigate('/e-courses/')}
+                                            className='text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium' >
+                                            Home
+                                            {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                        </button>
+                                        <button onClick={() => navigate('/e-courses/about')}
+                                            className='text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium' >
+
+                                            About                                            {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                        </button>
+                                        <button onClick={() => navigate('/e-courses/contact')}
+                                            className='text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium' >
+                                            Contact
+                                            {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                        </button>
+                                        <button onClick={() => navigate('/e-courses/event')}
+                                            className='text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium' >
+                                            Event                                            {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                        </button>
+
                                         <div className="flex justify-center items-center w-full ml-20 md:w-1/3 lg:w-80 lg:pr-8 pr-2">
                                             <div className="flex border-2 p-1 w-full border-white hover:border-sky-800 rounded-xl -mt-1 pr-2 hidden lg:flex ">
                                                 <input
@@ -108,14 +115,14 @@ export function Header() {
                                 {!isLoggedIn ? (
                                     <div className="flex gap-4 ">
                                         <button
-                                            onClick={() => navigate('/login')}
+                                            onClick={() => navigate('/e-courses/login')}
                                             className={`px-4 py-2 text-sm border-2  h-10 w-full ${isLoginPage ? "bg-sky-800 text-white border-white hover:bg-sky-900" : "text-white border-white hover:bg-sky-600"}`}
                                         >
                                             Login
                                         </button>
 
                                         <button
-                                            onClick={() => navigate('/signup')}
+                                            onClick={() => navigate('/e-courses/signup')}
                                             className={`px-4 py-2 text-sm border-2  ${isSignUpPage ? "bg-sky-800 text-white border-white hover:bg-sky-900" : "text-white border-white hover:bg-sky-600"}`}
                                         >
                                             SignUp
@@ -123,7 +130,7 @@ export function Header() {
                                     </div>
                                 ) : (
                                     <div className='flex items-center gap-4'>
-                                        <button onClick={() => navigate('/Cart')}>
+                                        <button onClick={() => navigate('/e-courses/Cart')}>
                                             <FaShoppingCart className='text-white text-2xl hover:text-sky-800' />
                                         </button>
                                         <div className="relative">
@@ -133,7 +140,7 @@ export function Header() {
                                             {isOpen && (
                                                 <div className="absolute mt-4 w-48 bg-white border rounded-lg shadow-lg">
                                                     <ul className="py-2 " onClick={handleOpen}>
-                                                        <li className="px-2 py-2 hover:bg-gray-200 cursor-pointer" onClick={() => navigate('/profile')}>Profile</li>
+                                                        <li className="px-2 py-2 hover:bg-gray-200 cursor-pointer" onClick={() => navigate('/e-courses/profile')}>Profile</li>
                                                         <li className="px-2 py-2 hover:bg-gray-200 cursor-pointer">Settings</li>
                                                         <li className="px-2 py-2 hover:bg-gray-200 cursor-pointer" onClick={handleLogout}>
                                                             Log out

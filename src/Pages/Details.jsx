@@ -75,7 +75,7 @@ export const Details = () => {
         { id: 6, name: 'Ethical Hacking', price: '3900', image: 'https://via.placeholder.com/150' },
     ];
     function viewmore(course) {
-        navigate(`/course/${encodeURIComponent(course.courseTitle)}`);
+        navigate(`/e-courses/course/${encodeURIComponent(course.courseTitle)}`);
     }
     return (
         <div className="container mx-auto">

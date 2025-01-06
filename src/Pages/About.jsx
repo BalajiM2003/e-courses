@@ -39,7 +39,7 @@ export const About = () => {
 
     function contact() {
 
-        navigate("/contact")
+        navigate("/e-courses/contact")
 
     }
     return (

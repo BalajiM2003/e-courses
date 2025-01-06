@@ -6,7 +6,7 @@ const SearchResults = () => {
     const { query, results } = location.state || { query: '', results: [] };
     const navigate = useNavigate();
     function viewmore(course) {
-        navigate(`/course/${encodeURIComponent(course.courseTitle)}`);
+        navigate(`/e-courses/course/${encodeURIComponent(course.courseTitle)}`);
     }
     return (
         <div className="p-8">

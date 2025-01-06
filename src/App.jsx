@@ -34,19 +34,19 @@ function App() {
 
             <Routes>
 
-              <Route path='/login' element={<Login />} />
-              <Route path='/signup' element={<SignUp />} />
-              <Route path='/' element={<Home />} />
-              <Route path='/about' element={<About />} />
-              <Route path='/event' element={<Event />} />
-              <Route path='/contact' element={<Contact />} />
-              <Route path='/tutor/:name' element={<CompleteDetails />} />
-              <Route path="/course/:courseTitle" element={<TutorDetails />} />
-              <Route path='/search-results' element={<SearchResults />} />
-              <Route path='/profile' element={<Profile />} />
-              <Route path='/products' element={<Details />} />
-              <Route path='/cart' element={<Cart />} />
-              <Route path='/payment' element={<PaymentPage />} />
+              <Route path='/e-courses/login' element={<Login />} />
+              <Route path='/e-courses/signup' element={<SignUp />} />
+              <Route path='/e-courses' element={<Home />} />
+              <Route path='/e-courses/about' element={<About />} />
+              <Route path='/e-courses/event' element={<Event />} />
+              <Route path='/e-courses/contact' element={<Contact />} />
+              <Route path='/e-courses/tutor/:name' element={<CompleteDetails />} />
+              <Route path="/e-courses/course/:courseTitle" element={<TutorDetails />} />
+              <Route path='/e-courses/search-results' element={<SearchResults />} />
+              <Route path='/e-courses/profile' element={<Profile />} />
+              <Route path='/e-courses/products' element={<Details />} />
+              <Route path='/e-courses/cart' element={<Cart />} />
+              <Route path='/e-courses/payment' element={<PaymentPage />} />
             </Routes>            <Footer />
           </CartProvider>
         </AuthContext.AuthProvider>

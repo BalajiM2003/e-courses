@@ -5,7 +5,8 @@ import { About } from './About'
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
+import 'aos/dist/aos.css';
+import banner from '../assets/banner.png' // You can also use <link> for styles
 // ..
 AOS.init();
 export const Home = () => {
@@ -39,7 +40,7 @@ export const Home = () => {
     };
     const getCourse = (course) => {
 
-        navigate(`/course/${encodeURIComponent(course.courseTitle)}`);
+        navigate(`/e-courses/course/${encodeURIComponent(course.courseTitle)}`);
     }
     return (
         <div className=''>
@@ -52,7 +53,7 @@ export const Home = () => {
                     </div>
                 </div>
                 <div className='w-screen  h-96 object-cover'>
-                    <img src='./src/assets/banner.png' alt='' className='w-full h-full object-fit' />
+                    <img src={banner} alt='' className='w-full h-full object-fit' />
                 </div>
                 <div className='block lg:flex md:flex  w-screen'>
                     <div className=' grid text-center lg:text-left md:text-left mt-20 space-y-4 p-4 ml-auto lg:pl-10 md:pl-10 w-full lg:w-1/2 md:w-1/2 ' data-aos="fade-up" data-aos-duration="500">

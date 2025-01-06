@@ -36,7 +36,7 @@ export const SignUp = () => {
             const isConfirmed = window.confirm("Sign Up Successfull");
             if (isConfirmed) {
                 setEmail(userEmail);
-                navigate("/login");
+                navigate("/e-courses/login");
             }
 
 

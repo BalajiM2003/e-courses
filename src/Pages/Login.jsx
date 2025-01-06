@@ -23,7 +23,7 @@ export const Login = () => {
                 setUserName(userNameInput); // Update context state
                 setIsLoggedIn(true); // Update login status
                 localStorage.setItem("isLoggedIn", "true");
-                navigate("/");
+                navigate("/e-courses/");
             }
         }
     };

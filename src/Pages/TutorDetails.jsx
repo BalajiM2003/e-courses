@@ -10,7 +10,7 @@ const TutorDetails = () => {
     const tutors = tutorsData[decodeURIComponent(courseTitle)] || [];
 
     function moreDetails(tutor) {
-        navigate(`/tutor/${encodeURIComponent(tutor.name)}`, { state: { tutor } });
+        navigate(`/e-courses/tutor/${encodeURIComponent(tutor.name)}`, { state: { tutor } });
     }
     const handleBuy = () => {
         if (isLoggedIn) {
@@ -18,7 +18,7 @@ const TutorDetails = () => {
         } else {
             const confirm = window.confirm("Login to Get the Course");
             if (confirm) {
-                navigate('/login');
+                navigate('/e-courses/login');
             }
         }
     }
