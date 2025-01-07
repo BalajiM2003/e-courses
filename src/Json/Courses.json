@@ -11,7 +11,7 @@
             "English [CC]",
             "Arabic [Auto]"
         ],
-        "image": "./src/assets/react.png"
+        "image": "react.png"
     },
     {
         "courseTitle": "JavaScript - The Modern Guide",
@@ -25,7 +25,7 @@
             "English [CC]",
             "Spanish [Auto]"
         ],
-        "image": "./src/assets/js.png"
+        "image": "js.png"
     },
     {
         "courseTitle": "HTML & CSS - Complete Guide",
@@ -39,7 +39,7 @@
             "English [CC]",
             "French [Auto]"
         ],
-        "image": "./src/assets/html css.jpeg"
+        "image": "htmlcss.jpeg"
     },
     {
         "courseTitle": "The Complete Node.js Developer Course",
@@ -53,7 +53,7 @@
             "English [CC]",
             "German [Auto]"
         ],
-        "image": "./src/assets/node.png"
+        "image": "node.png"
     },
     {
         "courseTitle": "Angular - Master the Basics",
@@ -67,7 +67,7 @@
             "English [CC]",
             "Portuguese [Auto]"
         ],
-        "image": "./src/assets/angular.png"
+        "image": "angular.png"
     },
     {
         "courseTitle": "Python for Data Science and Machine Learning",
@@ -81,7 +81,7 @@
             "English [CC]",
             "Chinese [Auto]"
         ],
-        "image": "./src/assets/python.jpeg"
+        "image": "python.jpeg"
     },
     {
         "courseTitle": "The Complete Java Developer Course",
@@ -95,7 +95,7 @@
             "English [CC]",
             "Japanese [Auto]"
         ],
-        "image": "./src/assets/java.jpeg"
+        "image": "java.jpeg"
     },
     {
         "courseTitle": "Learn SQL - SQL for Beginners",
@@ -109,7 +109,7 @@
             "English [CC]",
             "Russian [Auto]"
         ],
-        "image": "./src/assets/sql.png"
+        "image": "sql.png"
     },
     {
         "courseTitle": "Advanced CSS & Sass: Flexbox, Grid, Animations",
@@ -123,7 +123,7 @@
             "English [CC]",
             "Italian [Auto]"
         ],
-        "image": "./src/assets/css sass.jpeg"
+        "image": "csssass.jpeg"
     },
     {
         "courseTitle": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
@@ -137,7 +137,7 @@
             "English [CC]",
             "Spanish [Auto]"
         ],
-        "image": "./src/assets/ml.jpeg"
+        "image": "ml.jpeg"
     },
     {
         "courseTitle": "Complete Web Developer Bootcamp 2024",
@@ -151,7 +151,7 @@
             "English [CC]",
             "Arabic [Auto ]"
         ],
-        "image": "./src/assets/web development.jpeg"
+        "image": "webdevelopment.jpeg"
     },
     {
         "courseTitle": "The Complete Digital Marketing Course",
@@ -165,7 +165,7 @@
             "English [CC]",
             "Hindi [Auto]"
         ],
-        "image": "./src/assets/digital marketing.png"
+        "image": "digitalmarketing.png"
     },
     {
         "courseTitle": "Data Science and Machine Learning Bootcamp with R",
@@ -179,7 +179,7 @@
             "English [CC]",
             "Turkish [Auto]"
         ],
-        "image": "./src/assets/ml ds.png"
+        "image": "mlds.png"
     },
     {
         "courseTitle": "The Ultimate Guide to Bootstrap 5",
@@ -193,7 +193,7 @@
             "English [CC]",
             "French [Auto]"
         ],
-        "image": "./src/assets/bootstrap 5.jpeg"
+        "image": "bootstrap5.jpeg"
     },
     {
         "courseTitle": "iOS 16 Development for Beginners",
@@ -207,7 +207,7 @@
             "English [CC]",
             "Chinese [Auto]"
         ],
-        "image": "./src/assets/ios16.jpeg"
+        "image": "ios16.jpeg"
     },
     {
         "courseTitle": "The Complete Machine Learning and Data Science Course",
@@ -221,7 +221,7 @@
             "English [CC]",
             "Spanish [Auto]"
         ],
-        "image": "./src/assets/ml ds.png"
+        "image": "mlds.png"
     },
     {
         "courseTitle": "Vue.js 3 - The Complete Guide",
@@ -235,7 +235,7 @@
             "English [CC]",
             "Italian [Auto]"
         ],
-        "image": "./src/assets/vuejs3.png"
+        "image": "vuejs3.png"
     },
     {
         "courseTitle": "The Complete Python Bootcamp",
@@ -249,7 +249,7 @@
             "English [CC]",
             "German [Auto]"
         ],
-        "image": "./src/assets/python bootcamp.jpeg"
+        "image": "pythonbootcamp.jpeg"
     },
     {
         "courseTitle": "AWS Certified Solutions Architect - Associate 2024",
@@ -263,7 +263,7 @@
             "English [CC]",
             "French [Auto]"
         ],
-        "image": "./src/assets/aws.jpeg"
+        "image": "aws.jpeg"
     },
     {
         "courseTitle": "The Complete SwiftUI Course",
@@ -277,6 +277,6 @@
             "English [CC]",
             "Arabic [Auto]"
         ],
-        "image": "./src/assets/swiftui.jpeg"
+        "image": "swiftui.jpeg"
     }
 ]

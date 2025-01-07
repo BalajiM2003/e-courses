@@ -14,7 +14,7 @@ const TutorDetails = () => {
     }
     const handleBuy = () => {
         if (isLoggedIn) {
-            navigate('/payment');
+            navigate('/e-courses/payment');
         } else {
             const confirm = window.confirm("Login to Get the Course");
             if (confirm) {

@@ -2,27 +2,21 @@ import React from 'react'
 import { Details } from './Details'
 import { Header } from '../Components/Header'
 import { About } from './About'
+import Courses from '../Json/Courses.json'
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import banner from '../assets/banner.png' // You can also use <link> for styles
-// ..
+import banner from '../assets/banner.png'
+import bannerr from '../assets/banner2.png'
 AOS.init();
 export const Home = () => {
     const [courses, setCourses] = useState([]);
     const [filteredCourses, setFilteredCourses] = useState([]);
     const navigate = useNavigate();
-
-
     useEffect(() => {
-        fetch('./src/Json/Courses.json')
-            .then((response) => response.json())
-            .then((data) => {
-                setCourses(data);
-                setFilteredCourses(data.slice(0, 3)); // Initially display all courses
-            })
-            .catch((error) => console.error('Error fetching courses:', error));
+        setCourses(Courses);
+        setFilteredCourses(Courses.slice(0, 3)); // Initially display all courses
     }, []);
     const filterBestSeller = () => {
         const bestSeller = courses.filter(course => course.isBestseller === true).slice(0, 3);
@@ -49,7 +43,7 @@ export const Home = () => {
                     <h1 className='text-3xl font-bold p-5'>Unlock Your Potential With Our Courses</h1>
                     <p className='font-bold text-gray-700' >Transform your skills and advance your career with our expertly designed courses.<br></br>Join community of learners and take the first step towards your future today!</p>
                     <div className='flex gap-5 justify-center mt-8'>
-                        <button className='border-2 p-2 border-black  hover:bg-black hover:text-white w-40' onClick={() => navigate('/products')}>Explore Now</button>
+                        <button className='border-2 p-2 border-black  hover:bg-black hover:text-white w-40' onClick={() => navigate('/e-courses/products')}>Explore Now</button>
                     </div>
                 </div>
                 <div className='w-screen  h-96 object-cover'>
@@ -78,7 +72,7 @@ export const Home = () => {
 
                     </div>
                     <div className='w-full lg:w-1/2  md:w-1/2 p-10  lg:p-20 md:p-18' data-aos="fade-up" data-aos-duration="500">
-                        <img src='./src/assets/banner2.png' alt='' className='w-full h-full pb-2' />
+                        <img src={bannerr} alt='' className='w-full h-full pb-2' />
                     </div>
                 </div>
 

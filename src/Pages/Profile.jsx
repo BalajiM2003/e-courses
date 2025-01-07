@@ -1,5 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { useAuth } from "../AuthContext";
+import { MdDeleteOutline } from "react-icons/md";
+import dummy from '../assets/profile.png';
+import { image } from "framer-motion/client";
+import dummyImage from '../assets/profile.png';
+
 export const Profile = () => {
 
     const { profile, setProfile } = useAuth();
@@ -29,7 +34,13 @@ export const Profile = () => {
         }
 
     }
-
+    const handleDelete = () => {
+        setProfile((prev) => ({
+            ...prev,
+            image: { dummy },
+        }));
+        localStorage.setItem("image", dummy);
+    };
     const [isEditing, setIsEditing] = useState({
         name: false,
         email: false,
@@ -59,11 +70,12 @@ export const Profile = () => {
             <div className="w-full max-w-3xl bg-white shadow rounded-lg p-6 mb-8">
                 <div className="relative flex">
                     <img
-                        src={profile.image || "https://via.placeholder.com/100"}
+                        src={profile.image || dummyImage}
                         alt="Profile"
                         className="w-24 h-24 rounded-full object-cover shadow-lg border-4 border-blue-500"
                     />
                     <p className="flex justify-center items-center p-8 font-bold text-2xl text-sky-600">{profile.name}</p>
+                    <button className="absolute bottom-0 right-8 p-1 text-lg" ><MdDeleteOutline onClick={handleDelete} /></button>
                     <label
                         htmlFor="profileImageUpload"
                         className="absolute bottom-0 right-0 text-sky-600  p-1  cursor-pointer"

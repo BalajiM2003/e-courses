@@ -2,13 +2,13 @@ import React, { useState } from "react";
 import { FaEye, FaEyeSlash, FaUser } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../AuthContext";
-
+import login from '../assets/login2.png';
 export const Login = () => {
     const [userNameInput, setUserNameInput] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState("");
     const [showPassword, setShowPassword] = useState(false);
-    const { setUserName, setIsLoggedIn } = useAuth(); // Access the global context
+    const { setIsLoggedIn, setProfile } = useAuth(); // Access the global context
     const navigate = useNavigate();
 
     const handleValidation = (e) => {
@@ -20,7 +20,11 @@ export const Login = () => {
             setError("");
             const isConfirmed = window.confirm("Successfully Logged In");
             if (isConfirmed) {
-                setUserName(userNameInput); // Update context state
+                setProfile((prev) => ({
+                    ...prev,
+                    name: userNameInput,
+                }));
+                // Update context state
                 setIsLoggedIn(true); // Update login status
                 localStorage.setItem("isLoggedIn", "true");
                 navigate("/e-courses/");
@@ -35,7 +39,7 @@ export const Login = () => {
 
                 <div className="container block">
                     <div className=" -mt-20 ">
-                        <img src="./src/assets/login2.png" className="h-80 ml-10" />
+                        <img src={login} className="h-80 ml-10" />
                     </div>
                     <p className="mt-2 font-extrabold text-xl ml-4">
                         Log in to continue your learning journey

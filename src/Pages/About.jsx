@@ -1,6 +1,11 @@
 import React from 'react';
 import { FaCheckCircle, FaRegLightbulb } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
+import balaji from '../assets/BALAJI.png';
+import dinesh from '../assets/dinesh.png';
+import divakar from '../assets/diva.jpeg';
+import sangeeth from '../assets/sangee.jpeg';
+import suri from '../assets/suri.png';
 
 export const About = () => {
     const navigate = useNavigate();
@@ -9,31 +14,31 @@ export const About = () => {
             id: 1,
             name: 'BALAJI M',
             role: 'REACT DEVELOPER',
-            image: './src/assets/BALAJI.png',
+            image: balaji,
         },
         {
             id: 2,
             name: ' DINESH KUMAR P',
             role: 'BACKEND DEVELOPER',
-            image: './src/assets/dinesh.png',
+            image: dinesh,
         },
         {
             id: 3,
             name: 'DIVAKAR S',
             role: 'DEVOPS ENGINEER',
-            image: './src/assets/diva.jpeg',
+            image: divakar,
         },
         {
             id: 4,
             name: 'SANGEETH E',
             role: 'DEVOPS ENGINEER',
-            image: './src/assets/sangee.jpeg',
+            image: sangeeth,
         },
         {
             id: 5,
             name: 'SURENDHAR G M',
             role: 'DEVOPS ENGINEER',
-            image: './src/assets/suri.png',
+            image: { suri },
         },
     ];
 

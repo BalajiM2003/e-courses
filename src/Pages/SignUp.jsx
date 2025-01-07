@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaEye, FaEyeSlash, FaUser, FaEnvelope } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../AuthContext";
-
+import signup from '../assets/login.png'
 export const SignUp = () => {
     const [userEmail, setUserEmail] = useState("");
     const [password, setPassword] = useState("");
@@ -48,7 +48,7 @@ export const SignUp = () => {
     return (
         <div className="min-h-screen p-10 flex -mt-10 items-center justify-center">
             <div className="items-center justify-center">
-                <img className="h-40 ml-2 lg:ml-6 md:ml-8" src="./src/assets/login.png" alt="" />
+                <img className="h-40 ml-2 lg:ml-6 md:ml-8" src={signup} alt="" />
 
                 <div className="container block">
                     <p className="mt-2 font-extrabold text-xl flex justify-center items-center">

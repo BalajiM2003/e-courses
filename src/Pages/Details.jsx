@@ -3,7 +3,9 @@ import { useState, useEffect } from 'react';
 import { MdOutlineCurrencyRupee } from "react-icons/md";
 import { useNavigate } from 'react-router-dom';
 import { AiFillStar } from "react-icons/ai";
+
 import AOS from 'aos';
+import Courses from '../Json/Courses.json'
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 // ..
 AOS.init();
@@ -11,12 +13,10 @@ export const Details = () => {
 
     const [courses, setCourses] = useState([]);
     const navigate = useNavigate();
+
     useEffect(() => {
         // Assuming you are fetching from an API or a local file
-        fetch('./src/Json/Courses.json')
-            .then(response => response.json())
-            .then(data => setCourses(data))
-            .catch(error => console.error('Error fetching courses:', error));
+        setCourses(Courses);
     }, []);
     useEffect(() => {
         const elements = document.querySelectorAll(".scroll-element");

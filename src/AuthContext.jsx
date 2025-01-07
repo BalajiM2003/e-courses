@@ -11,15 +11,14 @@ export const useAuth = () => {
 
 // AuthProvider component that provides the context value
 export const AuthProvider = ({ children }) => {
-    const [userName, setUserName] = useState("");
-    const [email, setEmail] = useState("");
+
     const [isLoggedIn, setIsLoggedIn] = useState(false);
     const [profile, setProfile] = useState({
         name: "John Doe",
-        email: "johndoe@example.com",
+        email: "abc@example.com",
         dob: "",
         phoneNumber: "",
-        image: "", // Default image
+        image: ""
     });
     useEffect(() => {
         // Load profile from localStorage
@@ -32,7 +31,7 @@ export const AuthProvider = ({ children }) => {
         }
     }, []);
     return (
-        <AuthContext.Provider value={{ userName, setUserName, email, setEmail, isLoggedIn, setIsLoggedIn, profile, setProfile }}>
+        <AuthContext.Provider value={{ isLoggedIn, setIsLoggedIn, profile, setProfile }}>
             {children}
         </AuthContext.Provider>
     );

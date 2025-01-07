@@ -6,12 +6,10 @@ import { useState, useEffect } from 'react';
 import { FaShoppingCart } from "react-icons/fa";
 import { IoSearchSharp } from "react-icons/io5";
 import courses from '../Json/Courses.json';
+import logo from '../assets/Vite.png'
 
 
 
-function classNames(...classes) {
-    return classes.filter(Boolean).join(' ');
-}
 
 export function Header() {
     const navigate = useNavigate();
@@ -68,10 +66,10 @@ export function Header() {
                             </div>
 
                             <div className="flex">
-                                <img className="h-44 ml-6 lg:-ml-10 lg:pl-0 md:pl-0 sm:pl-10 " src="./src/assets/Vite.png" alt="Logo" />
+                                <img className="h-14 ml-6 lg:-ml-10 lg:pl-0 md:pl-0 sm:pl-10 flex items-center " src={logo} alt="Logo" />
 
                                 <div className="hidden  md:block">
-                                    <div className="flex space-x-4 mt-16 pt-2  lg:space-x-4 md:space-x-2 sm:space-x-1">
+                                    <div className="flex space-x-4 pt-2 pl-6 lg:space-x-4 md:space-x-2 sm:space-x-1">
 
                                         <button onClick={() => navigate('/e-courses/')}
                                             className='text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium' >
@@ -135,7 +133,7 @@ export function Header() {
                                         </button>
                                         <div className="relative">
                                             <button onClick={toggleDropdown} className="px-4 py-2">
-                                                <img src={profile.image} className=' h-12 rounded-full  border-4 border-sky-600  w-12   object-cover' />
+                                                <img src={profile.image} className=' h-10 rounded-full     w-12   object-cover' />
                                             </button>
                                             {isOpen && (
                                                 <div className="absolute mt-4 w-48 bg-white border rounded-lg shadow-lg">
@@ -155,20 +153,27 @@ export function Header() {
                         </div>
 
                         <DisclosurePanel className="md:hidden">
-                            <div className="space-y-2 px-2 pb-4 pt-2 bg-sky-500">
-                                {navigation.map((item) => (
-                                    <DisclosureButton
-                                        key={item.name}
-                                        as="a"
-                                        href={item.href}
-                                        className={classNames(
-                                            location.pathname === item.href ? "bg-sky-800 text-white" : "text-white hover:bg-sky-700 hover:text-white",
-                                            "block rounded-md px-3 py-2 text-base font-medium"
-                                        )}
-                                    >
-                                        {item.name}
-                                    </DisclosureButton>
-                                ))}
+                            <div className=" flex flex-col w-full space-y-2 px-2 pb-4 pt-2 bg-sky-500 ">
+
+                                <button onClick={() => navigate('/e-courses/')}
+                                    className='text-white w-full  hover:bg-sky-700 px-3 py-2  text-sm font-medium' >
+                                    Home
+                                    {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                </button>
+                                <button onClick={() => navigate('/e-courses/about')}
+                                    className='text-white w-full hover:bg-sky-700 px-3 py-2  text-sm font-medium' >
+
+                                    About                                            {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                </button>
+                                <button onClick={() => navigate('/e-courses/contact')}
+                                    className='text-white w-full hover:bg-sky-700 px-3 py-2  text-sm font-medium' >
+                                    Contact
+                                    {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                </button>
+                                <button onClick={() => navigate('/e-courses/event')}
+                                    className='text-white w-full hover:bg-sky-700 px-3 py-2  text-sm font-medium' >
+                                    Event                                            {/* //text-white hover:bg-gray-700 px-3 py-2  text-sm font-medium */}
+                                </button>
                             </div>
                             <div className="flex justify-center w-full mx-6 md:w-1/3 lg:w-1/4 pr-8 pb-8">
                                 <div className="flex border-2 p-2 w-full hover:border-sky-800">
