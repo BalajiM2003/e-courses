@@ -38,7 +38,7 @@ export const About = () => {
             id: 5,
             name: 'SURENDHAR G M',
             role: 'DEVOPS ENGINEER',
-            image: { suri },
+            image: suri,
         },
     ];
 
